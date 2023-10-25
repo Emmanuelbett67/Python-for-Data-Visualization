@@ -1,2 +1,2 @@
 # Python-for-Data-Visualization
-Coursera Final Assignment part 1
+Coursera Final Assignment
